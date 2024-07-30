@@ -1,0 +1,7 @@
+Nên sử dụng các bộ themes đậm màu phù hợp với máy chiếu.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Các UI phù hợp với chủ đề: computer, mobile phone, electrics
+opencart_000
+opencart_45570
+opencart_46247
+opencart_50677
